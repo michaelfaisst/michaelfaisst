@@ -4,13 +4,13 @@
   <p />
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/michael-faisst/">
+    <a href="https://www.linkedin.com/in/michael-faisst/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />  
     </a>
-    <a href="https://michael.faisst.at">
+    <a href="https://michael.faisst.at" target="_blank">
         <img src="https://img.shields.io/badge/Homepage-red?style=for-the-badge&logo=astro&logoColor=white" alt="Homepage" />
     </a>
-    <a href="https://twitter.com/vidar34">
+    <a href="https://twitter.com/vidar34" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
